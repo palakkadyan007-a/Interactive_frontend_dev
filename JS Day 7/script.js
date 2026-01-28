@@ -21,34 +21,34 @@
 // //string literal
 // console.log(`My name is ${user.fullname}.My fav color is ${user.favcolor[0]} `);
 
-let user={
-    fullname:"Pragya Sinha",
-    address:{
-        station:"delhi",
-        city:"west delhi",
-        state:"Delhi",
-        country:"india",
-        continent:"Asia",},
-    class: "1st year",
-    mobileno:1234567890,
-    favcolor:["black","white","pink"],
-    demo:function(){
-        return "hello world";
-    }
-}
-console.log(user.fullname,user.address.city,user.mobileno,user.favcolor[1],user.demo);
-console.log("My name is "+user.fullname+".My fav color is "+user.favcolor[0]);
+// let user={
+//     fullname:"Pragya Sinha",
+//     address:{
+//         station:"delhi",
+//         city:"west delhi",
+//         state:"Delhi",
+//         country:"india",
+//         continent:"Asia",},
+//     class: "1st year",
+//     mobileno:1234567890,
+//     favcolor:["black","white","pink"],
+//     demo:function(){
+//         return "hello world";
+//     }
+// }
+// console.log(user.fullname,user.address.city,user.mobileno,user.favcolor[1],user.demo);
+// console.log("My name is "+user.fullname+".My fav color is "+user.favcolor[0]);
 
 //string literal
-console.log(`My name is ${user.fullname}.My fav color is ${user.favcolor[0]} `);
+// console.log(`My name is ${user.fullname}.My fav color is ${user.favcolor[0]} `);
 
 
-const car = {
-    make:"mahindra",
-    model:"thar"
-}:
+// const car = {
+//     make:"mahindra",
+//     model:"thar"
+// };
 //
 //object.freeze(car);
-car.model="xuv700";
-car.color="zblack";
-console.log(car.model);
+// car.model="xuv700";
+// car.color="zblack";
+// console.log(car.model);
