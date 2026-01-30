@@ -42,6 +42,7 @@
 
 // let university="K.R Mangalam"
 // let program="BCA AI/DS"
-// console.log(`My name is Piyush Jain And I am Pursuing ${program} for ${university} `)
+// console.log(`My name is Palak Kadyan And I am Pursuing ${program} for ${university} `)
+
 
 // spread operators-It helps to destructure the array and string
