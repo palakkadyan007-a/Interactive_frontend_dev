@@ -26,12 +26,6 @@
 // car.color="zblack";
 // console.log(car.model);
 
-
-
-
-
-
-
 // [
 //     ["x", "o", "x"],
 //     ["x", "o", "x"],
@@ -39,7 +33,7 @@
 // ]
 
 // let user={
-//     name:"Piyush",
+//     name:"Palak Kadyan",
     // age:18,
     // addres:{
     //     city:"Gurugram",
@@ -98,3 +92,4 @@
  * - If Object.seal() were used instead, the color property could be added
 
  */
+
